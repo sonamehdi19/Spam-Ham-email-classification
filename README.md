@@ -1,2 +1,2 @@
 # Spam-Ham-email-classification
-< img 1*_PHZ4MPzvtXWRgVQhilGfQ.jpg />
+![image] (https://github.com/sonamehdi19/Spam-Ham-email-classification/blob/master/1*_PHZ4MPzvtXWRgVQhilGfQ.jpg)
